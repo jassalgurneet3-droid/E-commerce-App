@@ -1,1 +1,1 @@
-#E-commerce Web App is now initialized
+#E-commerce Web App
